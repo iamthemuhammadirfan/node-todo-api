@@ -1,0 +1,15 @@
+2024-11-29 18:01:24 error: Error Response: {"message":"Authentication required"}
+2024-11-29 18:06:10 error: Error Response: {"message":"Authentication required"}
+2024-11-29 18:06:10 error: Error Response: {"message":"Authentication required"}
+2024-11-29 18:06:35 error: Error Response: {"message":"Invalid credentials"}
+2024-11-29 18:06:36 error: Error Response: {"message":"Invalid credentials"}
+2024-11-29 18:06:36 error: Error Response: {"message":"Invalid credentials"}
+2024-11-29 18:06:38 error: Error Response: {"message":"Invalid credentials"}
+2024-11-29 18:09:58 error: Error Response: {"message":"Authentication required"}
+2024-11-29 18:09:58 error: Error Response: {"message":"Authentication required"}
+2024-11-29 18:10:46 error: Error Response: {"message":"Authentication required"}
+2024-11-29 18:10:46 error: Error Response: {"message":"Authentication required"}
+2024-11-29 18:18:32 error: Error Response: {"message":"Authentication required"}
+2024-11-29 18:18:59 error: Error Response: {"message":"Authentication required"}
+2024-11-29 18:32:25 error: Error Response: {"message":"Invalid credentials"}
+2024-11-29 19:30:10 error: Error Response: {"message":"No token provided"}

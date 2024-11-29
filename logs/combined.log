@@ -1,0 +1,332 @@
+2024-11-29 18:01:24 info: API Request - GET /api/todos
+2024-11-29 18:01:24 info: API Response - GET /api/todos - Status: 401 - Duration: 4ms
+2024-11-29 18:01:24 error: Error Response: {"message":"Authentication required"}
+2024-11-29 18:06:10 info: API Request - GET /api/todos
+2024-11-29 18:06:10 info: API Response - GET /api/todos - Status: 401 - Duration: 2ms
+2024-11-29 18:06:10 error: Error Response: {"message":"Authentication required"}
+2024-11-29 18:06:10 info: API Request - GET /api/auth/profile
+2024-11-29 18:06:10 info: API Response - GET /api/auth/profile - Status: 401 - Duration: 0ms
+2024-11-29 18:06:10 error: Error Response: {"message":"Authentication required"}
+2024-11-29 18:06:35 info: API Request - POST /api/auth/login
+2024-11-29 18:06:35 info: Request Body: {"username":"ad","password":"asd"}
+2024-11-29 18:06:35 info: API Response - POST /api/auth/login - Status: 401 - Duration: 66ms
+2024-11-29 18:06:35 error: Error Response: {"message":"Invalid credentials"}
+2024-11-29 18:06:36 info: API Request - POST /api/auth/login
+2024-11-29 18:06:36 info: Request Body: {"username":"ad","password":"asd"}
+2024-11-29 18:06:36 info: API Response - POST /api/auth/login - Status: 401 - Duration: 64ms
+2024-11-29 18:06:36 error: Error Response: {"message":"Invalid credentials"}
+2024-11-29 18:06:36 info: API Request - POST /api/auth/login
+2024-11-29 18:06:36 info: Request Body: {"username":"ad","password":"asd"}
+2024-11-29 18:06:36 info: API Response - POST /api/auth/login - Status: 401 - Duration: 66ms
+2024-11-29 18:06:36 error: Error Response: {"message":"Invalid credentials"}
+2024-11-29 18:06:38 info: API Request - POST /api/auth/login
+2024-11-29 18:06:38 info: Request Body: {"username":"ad","password":"asd"}
+2024-11-29 18:06:38 info: API Response - POST /api/auth/login - Status: 401 - Duration: 64ms
+2024-11-29 18:06:38 error: Error Response: {"message":"Invalid credentials"}
+2024-11-29 18:09:58 info: API Request - GET /api/todos
+2024-11-29 18:09:58 info: API Response - GET /api/todos - Status: 401 - Duration: 1ms
+2024-11-29 18:09:58 error: Error Response: {"message":"Authentication required"}
+2024-11-29 18:09:58 info: API Request - GET /api/auth/profile
+2024-11-29 18:09:58 info: API Response - GET /api/auth/profile - Status: 401 - Duration: 0ms
+2024-11-29 18:09:58 error: Error Response: {"message":"Authentication required"}
+2024-11-29 18:10:46 info: API Request - GET /api/todos
+2024-11-29 18:10:46 info: API Response - GET /api/todos - Status: 401 - Duration: 1ms
+2024-11-29 18:10:46 error: Error Response: {"message":"Authentication required"}
+2024-11-29 18:10:46 info: API Request - GET /api/auth/profile
+2024-11-29 18:10:46 info: API Response - GET /api/auth/profile - Status: 401 - Duration: 0ms
+2024-11-29 18:10:46 error: Error Response: {"message":"Authentication required"}
+2024-11-29 18:18:32 info: API Request - GET /api/auth/profile
+2024-11-29 18:18:32 info: API Response - GET /api/auth/profile - Status: 401 - Duration: 3ms
+2024-11-29 18:18:32 error: Error Response: {"message":"Authentication required"}
+2024-11-29 18:18:59 info: API Request - GET /api/auth/profile
+2024-11-29 18:18:59 info: API Response - GET /api/auth/profile - Status: 401 - Duration: 3ms
+2024-11-29 18:18:59 error: Error Response: {"message":"Authentication required"}
+2024-11-29 18:28:35 info: API Request - POST /api/auth/register
+2024-11-29 18:28:35 info: Request Body: {"username":"User1","password":"123456"}
+2024-11-29 18:28:36 info: API Response - POST /api/auth/register - Status: 201 - Duration: 231ms
+2024-11-29 18:29:29 info: API Request - POST /api/auth/login
+2024-11-29 18:29:29 info: Request Body: {"username":"User1","password":"123456"}
+2024-11-29 18:29:29 info: API Response - POST /api/auth/login - Status: 200 - Duration: 215ms
+2024-11-29 18:29:31 info: API Request - POST /api/auth/login
+2024-11-29 18:29:31 info: Request Body: {"username":"User1","password":"123456"}
+2024-11-29 18:29:31 info: API Response - POST /api/auth/login - Status: 200 - Duration: 217ms
+2024-11-29 18:32:25 info: API Request - POST /api/auth/login
+2024-11-29 18:32:25 info: Request Body: {"username":"User1","password":"123"}
+2024-11-29 18:32:25 info: API Response - POST /api/auth/login - Status: 401 - Duration: 141ms
+2024-11-29 18:32:25 error: Error Response: {"message":"Invalid credentials"}
+2024-11-29 18:32:30 info: API Request - POST /api/auth/login
+2024-11-29 18:32:30 info: Request Body: {"username":"User1","password":"123456"}
+2024-11-29 18:32:30 info: API Response - POST /api/auth/login - Status: 200 - Duration: 144ms
+2024-11-29 18:47:23 info: API Request - POST /api/auth/login
+2024-11-29 18:47:23 info: Request Body: {"username":"User1","password":"123456"}
+2024-11-29 18:47:23 info: API Response - POST /api/auth/login - Status: 200 - Duration: 217ms
+2024-11-29 18:47:29 info: API Request - POST /api/auth/login
+2024-11-29 18:47:29 info: Request Body: {"username":"User1","password":"123456"}
+2024-11-29 18:47:29 info: API Response - POST /api/auth/login - Status: 200 - Duration: 211ms
+2024-11-29 18:47:29 info: API Request - GET /api/todos
+2024-11-29 18:47:29 info: API Response - GET /api/todos - Status: 200 - Duration: 132ms
+2024-11-29 18:47:46 info: API Request - POST /api/todos
+2024-11-29 18:47:46 info: Request Body: {"title":"Losha","description":"This is my todo","completed":false}
+2024-11-29 18:47:46 info: API Response - POST /api/todos - Status: 201 - Duration: 148ms
+2024-11-29 18:48:00 info: API Request - GET /api/todos
+2024-11-29 18:48:00 info: API Response - GET /api/todos - Status: 200 - Duration: 130ms
+2024-11-29 18:48:05 info: API Request - GET /api/todos
+2024-11-29 18:48:06 info: API Response - GET /api/todos - Status: 200 - Duration: 129ms
+2024-11-29 18:48:07 info: API Request - GET /api/todos
+2024-11-29 18:48:07 info: API Response - GET /api/todos - Status: 200 - Duration: 132ms
+2024-11-29 18:48:09 info: API Request - GET /api/todos/6749c6020d69fc7ac487a36d
+2024-11-29 18:48:09 info: API Response - GET /api/todos/6749c6020d69fc7ac487a36d - Status: 200 - Duration: 135ms
+2024-11-29 18:48:15 info: API Request - PUT /api/todos/6749c6020d69fc7ac487a36d
+2024-11-29 18:48:15 info: Request Body: {"title":"Losha","description":"This is my todo","completed":true}
+2024-11-29 18:48:16 info: API Response - PUT /api/todos/6749c6020d69fc7ac487a36d - Status: 200 - Duration: 142ms
+2024-11-29 18:48:19 info: API Request - GET /api/todos
+2024-11-29 18:48:19 info: API Response - GET /api/todos - Status: 200 - Duration: 131ms
+2024-11-29 18:48:22 info: API Request - DELETE /api/todos/6749c6020d69fc7ac487a36d
+2024-11-29 18:48:22 info: API Response - DELETE /api/todos/6749c6020d69fc7ac487a36d - Status: 200 - Duration: 139ms
+2024-11-29 18:48:24 info: API Request - GET /api/todos
+2024-11-29 18:48:24 info: API Response - GET /api/todos - Status: 200 - Duration: 148ms
+2024-11-29 18:53:08 info: API Request - GET /api/auth/profile
+2024-11-29 18:53:08 info: API Response - GET /api/auth/profile - Status: 200 - Duration: 135ms
+2024-11-29 18:53:08 info: API Request - GET /api/todos
+2024-11-29 18:53:08 info: API Response - GET /api/todos - Status: 200 - Duration: 127ms
+2024-11-29 18:53:11 info: API Request - GET /api/todos
+2024-11-29 18:53:11 info: API Response - GET /api/todos - Status: 200 - Duration: 131ms
+2024-11-29 18:53:12 info: API Request - GET /api/todos
+2024-11-29 18:53:13 info: API Response - GET /api/todos - Status: 200 - Duration: 131ms
+2024-11-29 18:53:41 info: API Request - POST /api/todos
+2024-11-29 18:53:41 info: Request Body: {"title":"React Native","description":"Learn React Native","completed":false}
+2024-11-29 18:53:41 info: API Response - POST /api/todos - Status: 201 - Duration: 134ms
+2024-11-29 18:56:05 info: API Request - GET /api/todos
+2024-11-29 18:56:05 info: API Response - GET /api/todos - Status: 200 - Duration: 149ms
+2024-11-29 18:56:13 info: API Request - GET /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 18:56:13 info: API Response - GET /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 125ms
+2024-11-29 18:56:21 info: API Request - PUT /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 18:56:21 info: Request Body: {"title":"React Native","description":"Learn React Native Fast","completed":false}
+2024-11-29 18:56:22 info: API Response - PUT /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 138ms
+2024-11-29 18:56:25 info: API Request - GET /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 18:56:25 info: API Response - GET /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 124ms
+2024-11-29 18:56:28 info: API Request - GET /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 18:56:28 info: API Response - GET /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 127ms
+2024-11-29 18:56:35 info: API Request - PUT /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 18:56:35 info: Request Body: {"title":"React Native 0.76.3","description":"Learn React Native Fast","completed":false}
+2024-11-29 18:56:35 info: API Response - PUT /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 144ms
+2024-11-29 18:56:38 info: API Request - GET /api/todos
+2024-11-29 18:56:38 info: API Response - GET /api/todos - Status: 200 - Duration: 132ms
+2024-11-29 18:56:40 info: API Request - GET /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 18:56:40 info: API Response - GET /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 127ms
+2024-11-29 18:56:53 info: API Request - GET /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 18:56:53 info: API Response - GET /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 128ms
+2024-11-29 18:58:01 info: API Request - GET /api/todos
+2024-11-29 18:58:01 info: API Request - GET /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 18:58:01 info: API Response - GET /api/todos - Status: 200 - Duration: 132ms
+2024-11-29 18:58:02 info: API Response - GET /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 958ms
+2024-11-29 18:58:06 info: API Request - GET /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 18:58:06 info: API Response - GET /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 123ms
+2024-11-29 18:58:20 info: API Request - PUT /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 18:58:20 info: Request Body: {"title":"React Native 0.76.3","description":"Learn React Native Fast","completed":true}
+2024-11-29 18:58:20 info: API Response - PUT /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 136ms
+2024-11-29 18:58:23 info: API Request - GET /api/todos
+2024-11-29 18:58:23 info: API Response - GET /api/todos - Status: 200 - Duration: 134ms
+2024-11-29 18:58:26 info: API Request - GET /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 18:58:26 info: API Response - GET /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 127ms
+2024-11-29 18:58:31 info: API Request - GET /api/todos
+2024-11-29 18:58:31 info: API Response - GET /api/todos - Status: 200 - Duration: 130ms
+2024-11-29 18:58:33 info: API Request - GET /api/todos
+2024-11-29 18:58:33 info: API Response - GET /api/todos - Status: 200 - Duration: 137ms
+2024-11-29 18:58:35 info: API Request - GET /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 18:58:35 info: API Response - GET /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 127ms
+2024-11-29 18:58:38 info: API Request - PUT /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 18:58:38 info: Request Body: {"title":"React Native 0.76.3","description":"Learn React Native Fast","completed":false}
+2024-11-29 18:58:38 info: API Response - PUT /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 131ms
+2024-11-29 18:58:42 info: API Request - GET /api/todos
+2024-11-29 18:58:42 info: API Response - GET /api/todos - Status: 200 - Duration: 131ms
+2024-11-29 18:58:44 info: API Request - GET /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 18:58:44 info: API Response - GET /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 127ms
+2024-11-29 18:59:00 info: API Request - GET /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 18:59:00 info: API Response - GET /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 127ms
+2024-11-29 18:59:13 info: API Request - GET /api/todos
+2024-11-29 18:59:13 info: API Request - GET /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 18:59:13 info: API Response - GET /api/todos - Status: 200 - Duration: 130ms
+2024-11-29 18:59:13 info: API Response - GET /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 130ms
+2024-11-29 19:01:34 info: API Request - GET /api/todos
+2024-11-29 19:01:34 info: API Response - GET /api/todos - Status: 200 - Duration: 148ms
+2024-11-29 19:01:36 info: API Request - GET /api/todos
+2024-11-29 19:01:36 info: API Response - GET /api/todos - Status: 200 - Duration: 132ms
+2024-11-29 19:01:42 info: API Request - POST /api/auth/logout
+2024-11-29 19:01:42 info: API Response - POST /api/auth/logout - Status: 200 - Duration: 73ms
+2024-11-29 19:01:53 info: API Request - POST /api/auth/login
+2024-11-29 19:01:53 info: Request Body: {"username":"User1","password":"123456"}
+2024-11-29 19:01:54 info: API Response - POST /api/auth/login - Status: 200 - Duration: 216ms
+2024-11-29 19:01:54 info: API Request - GET /api/todos
+2024-11-29 19:01:54 info: API Response - GET /api/todos - Status: 200 - Duration: 123ms
+2024-11-29 19:01:59 info: API Request - POST /api/auth/logout
+2024-11-29 19:01:59 info: API Response - POST /api/auth/logout - Status: 200 - Duration: 64ms
+2024-11-29 19:02:15 info: API Request - POST /api/auth/register
+2024-11-29 19:02:15 info: Request Body: {"username":"User2","password":"090078601"}
+2024-11-29 19:02:16 info: API Response - POST /api/auth/register - Status: 201 - Duration: 277ms
+2024-11-29 19:02:16 info: API Request - GET /api/todos
+2024-11-29 19:02:16 info: API Response - GET /api/todos - Status: 200 - Duration: 139ms
+2024-11-29 19:03:45 info: API Request - GET /api/todos
+2024-11-29 19:03:45 info: API Response - GET /api/todos - Status: 200 - Duration: 141ms
+2024-11-29 19:03:47 info: API Request - POST /api/auth/logout
+2024-11-29 19:03:47 info: API Response - POST /api/auth/logout - Status: 200 - Duration: 68ms
+2024-11-29 19:03:54 info: API Request - POST /api/auth/login
+2024-11-29 19:03:54 info: Request Body: {"username":"User1","password":"123456"}
+2024-11-29 19:03:54 info: API Response - POST /api/auth/login - Status: 200 - Duration: 194ms
+2024-11-29 19:03:54 info: API Request - GET /api/todos
+2024-11-29 19:03:55 info: API Response - GET /api/todos - Status: 200 - Duration: 126ms
+2024-11-29 19:03:58 info: API Request - POST /api/auth/logout
+2024-11-29 19:03:58 info: API Response - POST /api/auth/logout - Status: 200 - Duration: 70ms
+2024-11-29 19:04:05 info: API Request - POST /api/auth/login
+2024-11-29 19:04:05 info: Request Body: {"username":"User2","password":"090078601"}
+2024-11-29 19:04:06 info: API Response - POST /api/auth/login - Status: 200 - Duration: 212ms
+2024-11-29 19:04:06 info: API Request - GET /api/todos
+2024-11-29 19:04:06 info: API Response - GET /api/todos - Status: 200 - Duration: 122ms
+2024-11-29 19:04:13 info: API Request - POST /api/auth/logout
+2024-11-29 19:04:13 info: API Response - POST /api/auth/logout - Status: 200 - Duration: 66ms
+2024-11-29 19:04:28 info: API Request - POST /api/auth/register
+2024-11-29 19:04:28 info: Request Body: {"username":"User3","password":"google"}
+2024-11-29 19:04:28 info: API Response - POST /api/auth/register - Status: 201 - Duration: 278ms
+2024-11-29 19:04:28 info: API Request - GET /api/todos
+2024-11-29 19:04:29 info: API Response - GET /api/todos - Status: 200 - Duration: 124ms
+2024-11-29 19:04:39 info: API Request - GET /api/auth/profile
+2024-11-29 19:04:39 info: API Response - GET /api/auth/profile - Status: 200 - Duration: 130ms
+2024-11-29 19:04:39 info: API Request - GET /api/todos
+2024-11-29 19:04:40 info: API Response - GET /api/todos - Status: 200 - Duration: 129ms
+2024-11-29 19:04:47 info: API Request - GET /api/auth/profile
+2024-11-29 19:04:48 info: API Response - GET /api/auth/profile - Status: 200 - Duration: 127ms
+2024-11-29 19:04:48 info: API Request - GET /api/todos
+2024-11-29 19:04:48 info: API Response - GET /api/todos - Status: 200 - Duration: 126ms
+2024-11-29 19:04:54 info: API Request - GET /api/auth/profile
+2024-11-29 19:04:55 info: API Response - GET /api/auth/profile - Status: 200 - Duration: 129ms
+2024-11-29 19:04:55 info: API Request - GET /api/todos
+2024-11-29 19:04:55 info: API Response - GET /api/todos - Status: 200 - Duration: 125ms
+2024-11-29 19:05:03 info: API Request - GET /api/auth/profile
+2024-11-29 19:05:03 info: API Response - GET /api/auth/profile - Status: 200 - Duration: 135ms
+2024-11-29 19:05:03 info: API Request - GET /api/todos
+2024-11-29 19:05:03 info: API Response - GET /api/todos - Status: 200 - Duration: 124ms
+2024-11-29 19:05:08 info: API Request - GET /api/auth/profile
+2024-11-29 19:05:08 info: API Response - GET /api/auth/profile - Status: 200 - Duration: 128ms
+2024-11-29 19:05:09 info: API Request - GET /api/todos
+2024-11-29 19:05:09 info: API Response - GET /api/todos - Status: 200 - Duration: 127ms
+2024-11-29 19:05:16 info: API Request - GET /api/auth/profile
+2024-11-29 19:05:16 info: API Response - GET /api/auth/profile - Status: 200 - Duration: 128ms
+2024-11-29 19:05:16 info: API Request - GET /api/todos
+2024-11-29 19:05:16 info: API Response - GET /api/todos - Status: 200 - Duration: 127ms
+2024-11-29 19:05:21 info: API Request - GET /api/auth/profile
+2024-11-29 19:05:21 info: API Response - GET /api/auth/profile - Status: 200 - Duration: 130ms
+2024-11-29 19:05:21 info: API Request - GET /api/todos
+2024-11-29 19:05:21 info: API Response - GET /api/todos - Status: 200 - Duration: 125ms
+2024-11-29 19:05:33 info: API Request - GET /api/auth/profile
+2024-11-29 19:05:33 info: API Response - GET /api/auth/profile - Status: 200 - Duration: 125ms
+2024-11-29 19:05:33 info: API Request - GET /api/todos
+2024-11-29 19:05:33 info: API Response - GET /api/todos - Status: 200 - Duration: 124ms
+2024-11-29 19:05:52 info: API Request - POST /api/todos
+2024-11-29 19:05:52 info: Request Body: {"title":"IOS Dev","description":"IOS Dev is a good thing to do","completed":false}
+2024-11-29 19:05:52 info: API Response - POST /api/todos - Status: 201 - Duration: 138ms
+2024-11-29 19:06:03 info: API Request - GET /api/todos
+2024-11-29 19:06:03 info: API Response - GET /api/todos - Status: 200 - Duration: 132ms
+2024-11-29 19:09:51 info: API Request - GET /api/todos
+2024-11-29 19:09:51 info: API Response - GET /api/todos - Status: 200 - Duration: 135ms
+2024-11-29 19:10:16 info: API Request - POST /api/todos
+2024-11-29 19:10:16 info: Request Body: {"title":"Web dev","description":"Web dev is also a good thing to do.","completed":false}
+2024-11-29 19:10:16 info: API Response - POST /api/todos - Status: 201 - Duration: 134ms
+2024-11-29 19:10:16 info: API Request - GET /api/todos
+2024-11-29 19:10:16 info: API Response - GET /api/todos - Status: 200 - Duration: 124ms
+2024-11-29 19:10:29 info: API Request - GET /api/todos/6749cb480d69fc7ac487a3ba
+2024-11-29 19:10:29 info: API Response - GET /api/todos/6749cb480d69fc7ac487a3ba - Status: 200 - Duration: 127ms
+2024-11-29 19:10:37 info: API Request - PUT /api/todos/6749cb480d69fc7ac487a3ba
+2024-11-29 19:10:37 info: Request Body: {"title":"Web dev 3.0","description":"Web dev is also a good thing to do.","completed":false}
+2024-11-29 19:10:37 info: API Response - PUT /api/todos/6749cb480d69fc7ac487a3ba - Status: 200 - Duration: 134ms
+2024-11-29 19:10:39 info: API Request - GET /api/todos
+2024-11-29 19:10:39 info: API Response - GET /api/todos - Status: 200 - Duration: 124ms
+2024-11-29 19:10:50 info: API Request - POST /api/auth/logout
+2024-11-29 19:10:50 info: API Response - POST /api/auth/logout - Status: 200 - Duration: 69ms
+2024-11-29 19:10:57 info: API Request - POST /api/auth/login
+2024-11-29 19:10:57 info: Request Body: {"username":"User1","password":"123456"}
+2024-11-29 19:10:57 info: API Response - POST /api/auth/login - Status: 200 - Duration: 212ms
+2024-11-29 19:10:57 info: API Request - GET /api/todos
+2024-11-29 19:10:57 info: API Response - GET /api/todos - Status: 200 - Duration: 122ms
+2024-11-29 19:11:02 info: API Request - GET /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 19:11:02 info: API Response - GET /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 127ms
+2024-11-29 19:11:10 info: API Request - PUT /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 19:11:10 info: Request Body: {"title":"React Native 0.76.3","description":"Learn React Native Fast Very Fast","completed":false}
+2024-11-29 19:11:10 info: API Response - PUT /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 142ms
+2024-11-29 19:11:12 info: API Request - GET /api/todos
+2024-11-29 19:11:12 info: API Response - GET /api/todos - Status: 200 - Duration: 124ms
+2024-11-29 19:11:14 info: API Request - GET /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 19:11:14 info: API Response - GET /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 127ms
+2024-11-29 19:11:18 info: API Request - GET /api/todos
+2024-11-29 19:11:18 info: API Response - GET /api/todos - Status: 200 - Duration: 135ms
+2024-11-29 19:12:24 info: API Request - GET /api/todos
+2024-11-29 19:12:25 info: API Response - GET /api/todos - Status: 200 - Duration: 145ms
+2024-11-29 19:12:26 info: API Request - GET /api/todos
+2024-11-29 19:12:26 info: API Response - GET /api/todos - Status: 200 - Duration: 126ms
+2024-11-29 19:16:48 info: API Request - GET /api/todos
+2024-11-29 19:16:49 info: API Response - GET /api/todos - Status: 200 - Duration: 147ms
+2024-11-29 19:17:00 info: API Request - GET /api/todos
+2024-11-29 19:17:01 info: API Response - GET /api/todos - Status: 200 - Duration: 127ms
+2024-11-29 19:20:51 info: API Request - GET /api/todos
+2024-11-29 19:20:51 info: API Response - GET /api/todos - Status: 200 - Duration: 133ms
+2024-11-29 19:21:55 info: API Request - POST /api/auth/login
+2024-11-29 19:21:55 info: Request Body: {"username":"User1","password":"123456"}
+2024-11-29 19:21:55 info: API Response - POST /api/auth/login - Status: 200 - Duration: 145ms
+2024-11-29 19:21:55 info: API Request - GET /api/todos
+2024-11-29 19:21:55 info: API Response - GET /api/todos - Status: 200 - Duration: 62ms
+2024-11-29 19:22:23 info: API Request - POST /api/todos
+2024-11-29 19:22:23 info: Request Body: {"title":"typescript","description":"Learn typescript","completed":false}
+2024-11-29 19:22:24 info: API Response - POST /api/todos - Status: 201 - Duration: 76ms
+2024-11-29 19:22:24 info: API Request - GET /api/todos
+2024-11-29 19:22:24 info: API Response - GET /api/todos - Status: 200 - Duration: 62ms
+2024-11-29 19:22:27 info: API Request - DELETE /api/todos/6749ce1f0d69fc7ac487a3ce
+2024-11-29 19:22:27 info: API Response - DELETE /api/todos/6749ce1f0d69fc7ac487a3ce - Status: 200 - Duration: 68ms
+2024-11-29 19:22:28 info: API Request - GET /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 19:22:28 info: API Response - GET /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 63ms
+2024-11-29 19:22:42 info: API Request - PUT /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 19:22:42 info: Request Body: {"title":"React Native 0.76.3 with New Architecture","description":"Learn React Native Fast Very Fast","completed":false}
+2024-11-29 19:22:42 info: API Response - PUT /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 65ms
+2024-11-29 19:22:44 info: API Request - GET /api/todos
+2024-11-29 19:22:44 info: API Response - GET /api/todos - Status: 200 - Duration: 66ms
+2024-11-29 19:22:47 info: API Request - GET /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 19:22:47 info: API Response - GET /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 64ms
+2024-11-29 19:22:51 info: API Request - GET /api/todos
+2024-11-29 19:22:51 info: API Response - GET /api/todos - Status: 200 - Duration: 64ms
+2024-11-29 19:22:53 info: API Request - GET /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 19:22:53 info: API Response - GET /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 72ms
+2024-11-29 19:22:57 info: API Request - PUT /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 19:22:57 info: Request Body: {"title":"React Native 0.76.3 with New Architecture","description":"Learn React Native Fast Very Fast","completed":true}
+2024-11-29 19:22:57 info: API Response - PUT /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 73ms
+2024-11-29 19:22:58 info: API Request - GET /api/todos
+2024-11-29 19:22:58 info: API Response - GET /api/todos - Status: 200 - Duration: 63ms
+2024-11-29 19:23:02 info: API Request - GET /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 19:23:02 info: API Response - GET /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 64ms
+2024-11-29 19:23:04 info: API Request - PUT /api/todos/6749c7650d69fc7ac487a37b
+2024-11-29 19:23:04 info: Request Body: {"title":"React Native 0.76.3 with New Architecture","description":"Learn React Native Fast Very Fast","completed":false}
+2024-11-29 19:23:05 info: API Response - PUT /api/todos/6749c7650d69fc7ac487a37b - Status: 200 - Duration: 69ms
+2024-11-29 19:23:06 info: API Request - GET /api/todos
+2024-11-29 19:23:06 info: API Response - GET /api/todos - Status: 200 - Duration: 65ms
+2024-11-29 19:23:19 info: API Request - POST /api/auth/logout
+2024-11-29 19:23:19 info: API Response - POST /api/auth/logout - Status: 200 - Duration: 2ms
+2024-11-29 19:29:43 info: API Request - POST /api/auth/login
+2024-11-29 19:29:43 info: Request Body: {"username":"User1","password":"123456"}
+2024-11-29 19:29:43 info: API Response - POST /api/auth/login - Status: 200 - Duration: 133ms
+2024-11-29 19:29:43 info: API Request - GET /api/todos
+2024-11-29 19:29:43 info: API Response - GET /api/todos - Status: 200 - Duration: 61ms
+2024-11-29 19:30:00 info: API Request - POST /api/todos
+2024-11-29 19:30:00 info: Request Body: {"title":"Ganesh","description":"Ganesh Gaitonde","completed":false}
+2024-11-29 19:30:00 info: API Response - POST /api/todos - Status: 201 - Duration: 69ms
+2024-11-29 19:30:00 info: API Request - GET /api/todos
+2024-11-29 19:30:00 info: API Response - GET /api/todos - Status: 200 - Duration: 64ms
+2024-11-29 19:30:03 info: API Request - GET /api/todos/6749cfe80d69fc7ac487a3df
+2024-11-29 19:30:03 info: API Response - GET /api/todos/6749cfe80d69fc7ac487a3df - Status: 200 - Duration: 63ms
+2024-11-29 19:30:04 info: API Request - GET /api/todos
+2024-11-29 19:30:04 info: API Response - GET /api/todos - Status: 200 - Duration: 66ms
+2024-11-29 19:30:05 info: API Request - GET /api/todos/6749cfe80d69fc7ac487a3df
+2024-11-29 19:30:05 info: API Response - GET /api/todos/6749cfe80d69fc7ac487a3df - Status: 200 - Duration: 64ms
+2024-11-29 19:30:07 info: API Request - GET /api/todos
+2024-11-29 19:30:07 info: API Response - GET /api/todos - Status: 200 - Duration: 64ms
+2024-11-29 19:30:10 info: API Request - POST /api/auth/logout
+2024-11-29 19:30:10 info: API Response - POST /api/auth/logout - Status: 200 - Duration: 1ms
+2024-11-29 19:30:10 info: API Request - GET /api/todos
+2024-11-29 19:30:10 info: API Response - GET /api/todos - Status: 401 - Duration: 0ms
+2024-11-29 19:30:10 error: Error Response: {"message":"No token provided"}
